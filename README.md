@@ -1,9 +1,9 @@
 # brain3D
-### [Loc](http://localhost:8080/)
+### http://localhost:8080
 ```bash
-reference code
+node server.js
 ```
-# brain3D
+# reference code
 ```bash
 https://github.com/kekkorider/threejs-dala/tree/main
 ```
